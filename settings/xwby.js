@@ -1,7 +1,7 @@
 // /settings/xwby.js
 
 const profileSettings = {
-  name: "@j4vierpena", // Nama pengguna
+  name: "@ZIELLAMP.", // Nama pengguna
   description: "Welcome at my page,i hope you find what you're looking for", // Deskripsi singkat
   profilePicture: "/media/profile.jpg", // URL foto profil
   links: [
